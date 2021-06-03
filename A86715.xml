@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble acknowledgement, and petition of divers inhabitants, in and about the citie of London. Presented to the Honourable the Commons of England in Parliament assembled the second of June. 1646. VVhereunto is added, the answer returned by the said Honorable House of Commons. Published by authoritie.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86715</idno><idno type="EEBO-CITATION">99861485</idno>
+  <idno type="VID">159723</idno>
+  <idno type="EEBO-PROQUEST">2240961667</idno>
+  
+            <idno type="STC">Wing H3369</idno>
+            <idno type="STC">Thomason E339_12</idno>
+            <idno type="STC">ESTC R200859</idno>
+            <idno type="PROQUEST">99861485</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861485e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86715)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159723)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E339[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble acknowledgement, and petition of divers inhabitants, in and about the citie of London. Presented to the Honourable the Commons of England in Parliament assembled the second of June. 1646. VVhereunto is added, the answer returned by the said Honorable House of Commons. Published by authoritie.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M.S. for Henry Overton, in Popes-head-Alley.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "Nicolas Nemo and Sallomon Simple were amongst others subscribed this Independant petition: June ye 2d"; "June 3d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Congregationalism --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159723:1"/>
+            <p>THE HUMBLE Acknowledgement, <hi>AND</hi> PETITION OF DIVERS INHABITANTS, IN, AND ABOUT THE CITIE OF <hi>LONDON.</hi>
+            </p>
+            <p>Presented to the Honourable the <hi>COMMONS</hi> of <hi>ENGLAND</hi> IN PARLIAMENT ASSEMBLED the second of <hi>June.</hi> 1646.</p>
+            <p>
+               <hi>VVhereunto is added,</hi> The ANSWER returned by the said Honorable House of <hi>COMMONS.</hi>
+            </p>
+            <p>
+               <hi>Published by Authoritie.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>M. S.</hi> for <hi>Henry Overton,</hi> in <hi>Popes</hi>-head-Alley. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:159723:2"/>
+            <pb facs="tcp:159723:2"/>
+            <head>The humble Acknowledgement and Petition of divers Inhabitants, in, and about <hi>the Citie of LONDON.</hi>
+            </head>
+            <opener>SHEVVETH;</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the High Court of Parlia<g ref="char:EOLhyphen"/>ment, being in this Kingdome that fundamentall constituti<g ref="char:EOLhyphen"/>on, wherein the supreme power resideth, the safety, the liberty, and proprieties of the People are bound up, and by whom alone (under God) they are able to provide for their welfare, and save themselves from violence and oppression; it hath been in all ages the constant practice, of those who sought their own greatnesse and the Peoples slavery, to invade that highest Court, endeavouring by open force to bereave them of their power and priviledges, and by subtill devi<g ref="char:EOLhyphen"/>ces and Hellish designes, to disparage their pro<g ref="char:EOLhyphen"/>ceedings, and withdraw the affections and con<g ref="char:EOLhyphen"/>currence of the People from them, which when it hath taken effect, this Nation hath (too late)
+<pb facs="tcp:159723:3"/> seen it selfe made miserable, and brought into bondage by its own folly; And seldome if ever, hath it recovered its former freedome without extreme trouble, and the expence of much bloud and Treasure.</p>
+            <p>Of all which this present age can abundantly witnesse, wherein the eyes of many of us have seen Parliaments, though seldom called, yet sud<g ref="char:EOLhyphen"/>denly dissolved, shamefully traduced, and many of their worthy Members (in terrour to the rest) imprisoned, and termed factious; Arbitrary go<g ref="char:EOLhyphen"/>vernment, Illegall Courts, and oppressive practi<g ref="char:EOLhyphen"/>ces advanced, and the Liberties of <hi>England</hi> lan<g ref="char:EOLhyphen"/>guishing, and even at their last period.</p>
+            <p>And since the calling of this present Parliament, your Petitioners are deeply sensible of those mani<g ref="char:EOLhyphen"/>fold desperate designes, cunning devices, and wic<g ref="char:EOLhyphen"/>ked practices, contrived and propagated in the darke, and driven on under specious pretences. Those open violences, horrid rebellions, and un<g ref="char:EOLhyphen"/>naturall warres, stirred up against you by the e<g ref="char:EOLhyphen"/>nemies of our liberties and peace, to divert your Councells, distract your proceedings, and render you burdensome to the People, or unable to help them.</p>
+            <p>From the consideration of all which, your Pe<g ref="char:EOLhyphen"/>titioners
+<pb facs="tcp:159723:3"/> do with all humilitie, and thankfulness, acknowledge the great mercy and goodnesse of Almightie GOD to this Kingdome; as in the Convening, so in the preservation of this Ho<g ref="char:EOLhyphen"/>nourable Assembly; That your spirits have not falne, nor your courage fainted; Notwithstand<g ref="char:EOLhyphen"/>ing the policie and power of your enemies, and the greatnesse of your worke. That your unwea<g ref="char:EOLhyphen"/>ried paines, and noble endeavours for the pub<g ref="char:EOLhyphen"/>lique good, have been sealed and crowned from Heaven, with blessed successe; your Councells prospered, and your Armies made victorious. That the renued attempts of many to withdraw the affections and influences of this Citie, and o<g ref="char:EOLhyphen"/>ther places from you, have hitherto been defeated. And that the day of our long desired deliverance and peace doth now approach, ready to shine up<g ref="char:EOLhyphen"/>on us, if the cloud of ingratitude and contempt of our happy deliverers hinder not.</p>
+            <p>In all which mercies, as your Petitioners freely acknowledge the good hand of our God, so may we not omit to present that great obligement of duty and thankfulnesse which lieth upon us, to<g ref="char:EOLhyphen"/>wards this Honourable Assembly, who have been the happy Instruments of so many blessings to us, and whose faithfulnesse and constancy, in the
+<pb facs="tcp:159723:4"/> publique Cause (wherewith you are intrusted) will we doubt not, be had in thankful and sacred remembrance in all ages to come, as an excellent pattern for them to walke by in their genera<g ref="char:EOLhyphen"/>tions.</p>
+            <p rend="italic">Wherefore your Petitioners most humbly pray, That this Honourably Assembly will be pleased to proceed in the mannaging and ordering of the affaires of this Kingdome, the punishing Delinquents therein, and procuring the peace and safety thereof, according to your own best Wisdomes and understandings, the great trust reposed in you, and that worthy manifesta<g ref="char:EOLhyphen"/>tion of your true intentions touching the same, made in your last Declaration of the seventeenth of <hi>Aprill</hi> last, (for which we tender our most humble thanks) That so Justice and Judgement may run down as a stream, &amp; mercy &amp; truth may take place amongst us. And that you would never suffer the free born People of this Kingdome to be enslaved, or brought under the power of any, upon what colourable pretence soever; Nor any to share with the High Court of Parlia<g ref="char:EOLhyphen"/>ment, or prescribe unto them in the Government or Power of this Nation, whose great Interest it hath ever been, to order their own matters by their own great Councell, without the confluence of any other. And the blessing of the most high God be upon you,
+<pb facs="tcp:159723:4"/> and the hearts, the hands, the lives and estates of your Petitioners, and (wee are very confident) of many thousands more shall still be with you, to stand by you, and support you against whomsoever shall with open force, or secret conspiracies, opprese you therein.</p>
+            <closer>And your Petitioners shall ever pray, &amp;c.
+<signed>This Petition is subscribed by many thousands.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
